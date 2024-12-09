@@ -6,11 +6,11 @@ Tugas praktikum ini bertujuan untuk membuat program sederhana menggunakan class 
 
 ## Diagram class
 
-! [](lib/img/mahasiswa.png)
+![](lib/img/mahasiswa.png)
 
 ## Flowchart
 
-! []()
+![]()
 
 ## Fitur
 
