@@ -10,7 +10,7 @@ Tugas praktikum ini bertujuan untuk membuat program sederhana menggunakan class 
 
 ## Flowchart
 
-![]()
+![](lib/img/class.png)
 
 ## Fitur
 
@@ -29,30 +29,11 @@ Contoh penggunaan:
 
 ```python
 mahasiswa = Mahasiswa()
-mahasiswa.tambah("John Doe")
-mahasiswa.tambah("Jane Smith")
+mahasiswa.tambah("Udin Stark")
+mahasiswa.tambah("Praroro Julianto")
 mahasiswa.tampilkan()
-mahasiswa.hapus("Jane Smith")
-mahasiswa.ubah("John Doe", "John Wick")
+mahasiswa.hapus("Praroro Julianto")
+mahasiswa.ubah("Udin Stark", "Suneo Junaedi")
 mahasiswa.tampilkan()
 ```
 
-## Flowchart
-
-Silakan lihat flowchart terpisah untuk memahami alur program.
-
-## Struktur Proyek
-
-Proyek ini terdiri dari:
-
-- `Mahasiswa.py`: Berisi implementasi kelas `Mahasiswa` dan metode-metodenya.
-- `README.md`: Dokumentasi proyek yang Anda sedang baca.
-- `tugas-praktikum-flowchart.svg`: Flowchart visualisasi program.
-
-## Kontribusi
-
-Proyek ini dibuat untuk memenuhi tugas praktikum. Jika Anda menemukan bug atau memiliki saran perbaikan, silakan buat issue atau pull request di repositori ini.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
